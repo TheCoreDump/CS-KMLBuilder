@@ -1,0 +1,13 @@
+C:\Dev\Projects\KmlBuilder\KmlBuilder\bin\Debug\KmlBuilder.exe.config
+C:\Dev\Projects\KmlBuilder\KmlBuilder\bin\Debug\KmlBuilder.exe
+C:\Dev\Projects\KmlBuilder\KmlBuilder\bin\Debug\KmlBuilder.pdb
+C:\Dev\Projects\KmlBuilder\KmlBuilder\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Dev\Projects\KmlBuilder\KmlBuilder\bin\Debug\SharpKml.dll
+C:\Dev\Projects\KmlBuilder\KmlBuilder\bin\Debug\SharpKml.Kmz.dll
+C:\Dev\Projects\KmlBuilder\KmlBuilder\bin\Debug\SharpKml.xml
+C:\Dev\Projects\KmlBuilder\KmlBuilder\bin\Debug\SharpKml.Kmz.xml
+C:\Dev\Projects\KmlBuilder\KmlBuilder\obj\Debug\KmlBuilder.csprojResolveAssemblyReference.cache
+C:\Dev\Projects\KmlBuilder\KmlBuilder\obj\Debug\KmlBuilder.exe
+C:\Dev\Projects\KmlBuilder\KmlBuilder\obj\Debug\KmlBuilder.pdb
+C:\Dev\Projects\KmlBuilder\KmlBuilder\bin\Debug\ExifLib.dll
+C:\Dev\Projects\KmlBuilder\KmlBuilder\bin\Debug\MKCoolsoft.GPXLib.dll
